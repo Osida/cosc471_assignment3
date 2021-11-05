@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/osida/Desktop/COSC471_pa3/Triangle.cpp
-Triangle.hpp
-/home/osida/Desktop/COSC471_pa3/Triangle.hpp
-algorithm
--
-array
--
-
 /home/osida/Desktop/COSC471_pa3/Triangle.hpp
 ./eigen3/Eigen/Eigen
 /home/osida/Desktop/COSC471_pa3/eigen3/Eigen/Eigen
@@ -1621,18 +1613,6 @@ ReshapedMethods.h
 /home/osida/Desktop/COSC471_pa3/eigen3/Eigen/src/plugins/ReshapedMethods.h
 
 /home/osida/Desktop/COSC471_pa3/global.hpp
-
-/home/osida/Desktop/COSC471_pa3/main.cpp
-iostream
--
-opencv2/opencv.hpp
--
-rasterizer.hpp
-/home/osida/Desktop/COSC471_pa3/rasterizer.hpp
-global.hpp
-/home/osida/Desktop/COSC471_pa3/global.hpp
-Triangle.hpp
-/home/osida/Desktop/COSC471_pa3/Triangle.hpp
 
 /home/osida/Desktop/COSC471_pa3/rasterizer.cpp
 algorithm
